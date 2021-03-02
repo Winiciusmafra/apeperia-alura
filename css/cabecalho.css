@@ -9,6 +9,7 @@
     flex-direction: column;
     align-items: center;
 
+    /*rem é baseado no font size da tag mais alta  = html*/
     padding-top: .75rem;
     padding-bottom: .75rem;
 
